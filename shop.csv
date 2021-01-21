@@ -1,0 +1,3 @@
+id,name,description,type,price,hidden,features,expiration
+potion_premium_month_1,Premium Potion,This potion will grant you premium for 1 month.,premium,500,false,null,31
+potion_command_verifyall_1,Command Potion - Lifetime,This potion will permanently unlock the !verifyall command.,command,1000,false,verifyall,-1
